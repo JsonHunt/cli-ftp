@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Command line ftp client for nodejs",
   "main": "index.js",
+  "bin": {
+    "cli-ftp": "./bin/cli-ftp"
+  },
+  "repository": "https://github.com/JsonHunt/cli-ftp.git",
   "scripts": {
     "test": "test"
   },
