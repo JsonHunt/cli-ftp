@@ -1,0 +1,20 @@
+{
+  "name": "cli-ftp",
+  "version": "0.1.0",
+  "description": "Command line ftp client for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli",
+    "ftp",
+    "ssh",
+    "client"
+  ],
+  "author": "JasonHunt",
+  "license": "ISC",
+  "dependencies": {
+    "jsftp": "^1.5.0"
+  }
+}
